@@ -36,6 +36,7 @@
     <!--子项目模块-->
     <modules>
         <module>register-server</module>
+        <module>producer</module>
     </modules>
 
 
